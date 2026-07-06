@@ -1,0 +1,2 @@
+# Dependencias del proyecto.
+# Se actualizará mediante pip freeze cuando el entorno esté configurado.

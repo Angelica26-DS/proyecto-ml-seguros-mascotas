@@ -216,3 +216,20 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Entornos virtuales
+venv/
+.env
+
+# Cache Python/Jupyter
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# Datos completos o pesados
+src/data/
+*.csv
+*.xlsx
+*.parquet
+
+# Permitir muestra de datos si se necesita
+!src/data_sample/
