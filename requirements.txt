@@ -1,2 +1,15 @@
-# Dependencias del proyecto.
-# Se actualizará mediante pip freeze cuando el entorno esté configurado.
+# ===================================================
+# Proyecto ML - Seguros para Mascotas
+# Dependencias del entorno de desarrollo
+#
+# Instalar mediante:
+# pip install -r requirements.txt
+# ===================================================
+
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+jupyter
+ipykernel
