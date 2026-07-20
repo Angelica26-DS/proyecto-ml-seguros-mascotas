@@ -233,3 +233,7 @@ src/data/
 
 # Permitir muestra de datos si se necesita
 !src/data_sample/
+!src/data_sample/**
+
+# Modelos entrenados generados localmente
+src/models/*.pkl
